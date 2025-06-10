@@ -1,0 +1,7 @@
+streamlit
+nltk
+pandas
+scikit-learn
+pdfminer.six
+datasets
+numpy
